@@ -165,7 +165,7 @@
     "prefer-spread": "error",
     "prefer-template": "error",
     "quote-props": "off",
-    "quotes": ["error", "single"],
+    "quotes": ["off", "single"],
     "radix": "error",
     "require-jsdoc": "off",
     "require-yield": "error",
